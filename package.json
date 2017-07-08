@@ -5,7 +5,7 @@
   "dependencies": {
     "node-gyp": "^3.2.1",
     "ds18x20": "^0.2.0",
-    "bluebird": "3.2.1",
+    "bluebird": "3.2.1"
   },
   "devDependencies": {},
   "optionalDependencies": {},
